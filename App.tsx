@@ -1,6 +1,6 @@
 
 import React, { useState, useCallback } from 'react';
-import { Header };
+import { Header } from './Header';
 import { Footer } from './components/Footer';
 import { BlogForm } from './components/BlogForm';
 import { BlogPostDisplay } from './components/BlogPostDisplay';
