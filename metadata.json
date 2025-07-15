@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Power Blog Post Generator",
+  "description": "An AI-powered application that generates high-quality blog posts on any topic using the Gemini API. Users can specify topics, keywords, tone, and style to create customized content instantly.",
+  "requestFramePermissions": []
+}
